@@ -41,7 +41,7 @@ while(<$fh>) {
  my $sp = $fname_species;
  if ( $q =~ /\|/ ) {
      ($sp) = split(/\|/,$q);
- } 
+ }
  my $outfile = File::Spec->catdir($outfolder,$sp);
  if ( ! -d $outfile ) {
      mkdir($outfile);
@@ -80,8 +80,8 @@ while(<$fh>) {
     my $s = $qseq->seq;
     my $scds = $qcds->seq;
     if( $s =~ s/\*$// ) { # drop trailing stop codon completely
-	$s = substr($s,0,$qseq->length - 1);
-	$scds = substr($scds,0,$qcds->length - 3)
+	    $s = substr($s,0,$qseq->length - 1);
+	    $scds = substr($scds,0,$qcds->length - 3)
     }
     # any other stop codon should be recoded as an X to be handled by
     # the aligner and then swapped out by mrtrans
