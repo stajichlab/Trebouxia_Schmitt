@@ -1,2 +1,6 @@
 BASE,SPECIES,STRAIN,PACBIO,ILLUMINA,SUBPHYLUM,PHYLUM,LOCUS,RNASEQ
 Haplotype02,Trebouxia sp.,Hap2,m64346e_220308_223640.reads.fastq.gz,,Chlorophyta,Trebouxiophyceae,Hap02,
+Haplotype02_h1,Trebouxia sp.,Hap2_h1,m64346e_220308_223640.reads.fastq.gz,,Chlorophyta,Trebouxiophyceae,Hap02h1,
+Haplotype02_h2,Trebouxia sp.,Hap2_h2,m64346e_220308_223640.reads.fastq.gz,,Chlorophyta,Trebouxiophyceae,Hap02h2,
+Haplotype01,Trebouxia sp.,Hap01,,,Chlorophyta,Trebouxiophyceae,Hap01,
+ColdLineage,Trebouxia sp.,ColdLineage,,,Chlorophyta,Trebouxiophyceae,COLD,
