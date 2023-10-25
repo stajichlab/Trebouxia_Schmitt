@@ -29,8 +29,10 @@ if ( $filename =~ /(\S+)\.FASTA\.tab(\.gz)?$/ ) {
 }
 
 my $pairct = 0;
-my $pepdb = Bio::DB::Fasta->new(sprintf("%s/%s.proteins.fa",$pepfolder,$basename));
-my $cdsdb = Bio::DB::Fasta->new(sprintf("%s/%s.cds-transcripts.fa",$cdsfolder,$basename));
+#my $pepdb = Bio::DB::Fasta->new(sprintf("%s/%s.proteins.fa",$pepfolder,$basename));
+#my $cdsdb = Bio::DB::Fasta->new(sprintf("%s/%s.cds-transcripts.fa",$cdsfolder,$basename));
+my $pepdb = Bio::DB::Fasta->new($pepfolder);
+my $cdsdb = Bio::DB::Fasta->new($cdsfolder);
 my $min_aligned = 0.60;
 my %seen;
 my $fname_species = $basename;
@@ -49,12 +51,12 @@ while(<$fh>) {
  my $qseq = $pepdb->get_Seq_by_acc($q);
  my $tseq = $pepdb->get_Seq_by_acc($t); 
  if ( ! $qseq ) {
-   warn("no qseq $q");
-   next;
+   warn("no protein qseq $q (",sprintf("%s/%s.proteins.fa",$pepfolder,$basename),")");
+   exit;
  }
  if ( ! $tseq ) {
    warn("no tseq $t");
-   next;
+   exit;
  }
  # this is 1 selection criteria - make sure is at least (min_aligned)
  # aligned
