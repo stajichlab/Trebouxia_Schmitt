@@ -1,0 +1,417 @@
+id	genome_x	list_x	parent	genome_y	list_y	level	number_of_anchorpoints	profile_length	begin_x	end_x	begin_y	end_y	is_redundant
+1	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000056l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000052l	2	594	707	4	712	1	705	0
+2			1	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000977l	3	4	4	317	320	0	3	0
+3			1	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000082l	3	4	28	325	329	240	269	0
+4			3	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	4	24	33	0	27	776	808	0
+5			1	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000081l	3	3	3	657	659	0	2	0
+6			1	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	3	3	10	483	488	690	699	0
+7			1	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l	3	3	20	138	148	223	250	0
+8	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000027l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000069l	2	539	671	0	640	0	697	0
+9			8	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	3	4	5	73	77	31	34	0
+10			9	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l	4	4	5	0	4	231	234	0
+11			10	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l	5	4	5	0	4	57	60	0
+12			11	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	6	4	5	0	4	27	30	0
+13			12	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l	7	4	5	0	4	218	221	0
+14			13	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l	8	3	4	0	3	140	142	0
+15			14	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l	9	3	4	0	3	43	45	0
+16			8	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l	3	4	12	660	670	637	642	0
+17			8	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001063l	3	3	5	74	77	0	3	0
+18			8	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l	3	3	22	137	152	129	146	0
+19			8	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000013l	3	3	16	136	151	57	62	0
+20			8	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	3	3	30	80	107	119	157	0
+21	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000012l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000028l	2	497	621	10	633	3	650	0
+22			21	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l	3	4	6	536	541	118	121	0
+23	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	467	682	24	703	206	883	0
+24			23	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	3	6	73	561	609	27	86	0
+25			24	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	4	10	47	20	59	738	772	0
+26			25	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000002l	5	4	36	6	40	187	213	0
+27			24	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l	4	6	56	37	64	182	242	0
+28			24	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l	4	5	31	6	35	0	25	0
+29			23	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000008l	3	5	64	559	603	48	107	0
+30			29	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000014l	4	39	60	2	61	41	93	0
+31			23	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l	3	5	69	567	618	122	162	0
+32			23	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l	3	4	33	573	594	40	60	0
+33			23	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	3	4	25	654	676	185	202	0
+34			23	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	3	4	38	583	620	639	672	0
+35			23	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000183l	3	3	3	0	2	15	17	0
+36			23	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	3	3	20	580	594	69	93	0
+37			23	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000071l	3	3	21	579	599	21	36	0
+38			23	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	3	3	33	579	609	543	603	0
+39	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000065l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l	2	444	631	0	604	7	635	0
+40			39	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l	3	3	25	147	171	397	423	0
+41	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000058l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	434	575	1	585	137	696	0
+42			41	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000125l	3	5	5	87	91	0	4	0
+43			41	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000791l	3	3	3	462	464	0	2	0
+44			41	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000125l	3	3	3	440	442	5	7	0
+45			41	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000007l	3	3	13	133	143	311	323	0
+46	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000020l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	428	559	128	697	358	921	0
+47			46	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l	3	4	6	33	36	55	61	0
+48			46	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000071l	3	3	14	391	400	146	160	0
+49			46	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l	3	3	22	492	510	22	48	0
+50			46	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l	3	3	19	429	446	636	646	0
+51	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000067l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000062l	2	366	480	6	470	3	484	0
+52			51	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l	3	4	18	461	479	97	102	0
+53			52	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	4	3	22	0	17	1	23	0
+54			51	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	3	3	26	453	478	1	23	0
+55	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000007l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	342	443	281	743	287	726	0
+56			55	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001489l	3	5	5	325	329	0	4	0
+57			55	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000918l	3	5	5	118	122	0	4	0
+58			55	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000918l	3	4	4	158	161	5	8	0
+59			55	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001343l	3	3	3	330	332	0	2	0
+60	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000013l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	337	443	10	485	136	607	0
+61			60	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000337l	3	4	4	104	107	0	3	0
+62			60	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l	3	3	24	16	39	14	37	0
+63			60	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l	3	3	25	12	34	139	177	0
+64	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000014l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000008l	2	318	439	3	426	1	448	0
+65	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000033l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	300	440	0	431	3	432	0
+66	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000039l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000007l	2	255	316	4	321	2	302	0
+67			66	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001489l	3	3	3	213	215	5	7	0
+68	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000002l	2	254	326	84	402	0	334	0
+69			68	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l	3	3	14	235	244	27	41	0
+70	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000047l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l	2	247	344	29	383	35	406	-1
+71	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	239	322	0	315	1	312	0
+72			71	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000066l	3	3	10	288	294	113	123	0
+73			71	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000044l	3	3	15	43	53	284	300	0
+74			71	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l	3	3	19	139	154	101	113	0
+75			71	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l	3	3	22	139	154	172	197	0
+76			71	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l	3	3	26	131	155	115	134	0
+77	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000066l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000044l	2	220	294	12	288	15	325	0
+78	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l	2	201	322	5	341	1	356	0
+79			78	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l	3	6	22	50	72	78	97	0
+80			78	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000012l	3	3	19	303	321	0	8	0
+81	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000016l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000043l	2	186	265	3	267	10	321	0
+82	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000039l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000082l	2	181	215	322	532	326	558	0
+83	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000063l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	174	226	0	218	1	223	0
+84			83	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001572l	3	5	5	102	106	0	4	0
+85	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000002l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000082l	2	157	199	346	553	3	200	0
+86	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000030l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000035l	2	147	200	56	247	1	201	0
+87	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000056l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000052l	2	140	203	712	907	707	912	0
+88	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000015l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000020l	2	111	122	2	126	4	127	0
+89	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000082l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	109	128	203	326	715	841	0
+90			89	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001567l	3	3	3	70	72	1	3	0
+91	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	101	123	9	135	5	132	0
+92	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000055l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000071l	2	100	165	0	145	1	167	0
+93	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	62	81	2	83	846	944	0
+94			93	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l	3	4	44	1	31	269	327	0
+95			93	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l	3	3	13	19	31	114	116	0
+96	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000033l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	62	95	432	515	439	533	0
+97	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000015l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l	2	58	96	147	227	340	436	0
+98	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000030l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	49	62	0	61	225	286	0
+99	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000035l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000007l	2	48	69	202	263	745	812	0
+100	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l	2	43	218	1	243	97	287	-1
+101	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000033l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	41	52	33	81	39	92	-1
+102	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l	2	24	31	1	30	579	606	-1
+103	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	23	141	57	225	22	144	0
+104	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000047l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l	2	22	25	4	28	5	34	0
+105	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l	2	21	171	69	231	1	166	0
+106			105	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l	3	8	48	126	165	56	103	0
+107	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	19	34	316	337	314	347	0
+108	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000020l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	18	58	600	649	842	871	-1
+109	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	18	66	78	179	9	58	0
+110			109	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001566l	3	3	3	2	4	0	2	0
+111	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000002l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000082l	2	17	17	532	549	7	24	-1
+112	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000065l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l	2	16	32	117	146	119	153	-1
+113	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	15	17	210	227	328	343	-1
+114	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	14	18	29	44	860	876	-1
+115	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l	2	14	109	4	149	47	115	0
+116	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000183l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	13	14	2	17	12	27	0
+117	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	11	109	171	283	23	119	-1
+118	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	10	33	757	774	68	113	-1
+119	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	10	60	671	764	137	202	-1
+120	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000056l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000052l	2	9	10	742	751	742	751	-1
+121	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000033l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	9	10	306	314	477	486	-1
+122	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000012l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000028l	2	8	8	554	563	538	546	-1
+123	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l	2	8	28	262	305	285	334	-1
+124	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l	2	8	40	170	208	103	144	-1
+125	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001572l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	7	7	0	6	115	121	-1
+126	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000067l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000062l	2	7	29	69	102	103	128	-1
+127	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	7	44	58	90	21	61	-1
+128	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l	2	7	47	264	308	175	201	0
+129	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000002l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	7	45	180	213	44	91	-1
+130	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l	2	7	42	180	228	105	126	-1
+131	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l	2	7	89	101	166	116	197	0
+132	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	6	6	231	236	924	929	0
+133	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	6	7	780	788	12	17	-1
+134	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000065l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l	2	6	17	80	94	16	31	-1
+135	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	6	20	749	766	51	67	-1
+136	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000063l	2	6	19	69	90	167	189	-1
+137	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l	2	6	54	148	195	84	126	-1
+138	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001489l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000007l	2	5	5	0	4	608	612	-1
+139	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000125l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000058l	2	5	5	0	4	94	98	-1
+140	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000125l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	5	5	0	4	218	222	-1
+141	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	5	5	0	4	0	5	0
+142			141	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000066l	3	3	3	1	3	294	296	0
+143	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000014l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000008l	2	5	5	274	279	372	376	-1
+144	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000013l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	5	5	190	195	432	436	-1
+145	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000044l	2	5	13	265	276	290	300	-1
+146	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000028l	2	5	14	113	121	559	577	-1
+147	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l	2	5	16	151	166	112	132	-1
+148	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	5	25	43	69	93	130	-1
+149	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l	2	5	22	78	97	54	79	-1
+150	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000014l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000008l	2	5	30	341	370	276	307	-1
+151	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l	2	5	41	194	215	197	251	0
+152	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000008l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	5	55	48	107	572	617	-1
+153	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000977l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000056l	2	4	4	0	3	326	329	-1
+154	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000977l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000052l	2	4	4	0	3	329	333	-1
+155	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000918l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000007l	2	4	4	5	8	445	448	-1
+156	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000918l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000007l	2	4	4	1	4	405	408	-1
+157	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000337l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000013l	2	4	4	0	3	145	148	-1
+158	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000069l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	4	4	609	612	27	30	-1
+159	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000066l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	4	4	3	6	7	11	0
+160	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000069l	2	4	4	31	34	609	612	-1
+161	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l	2	4	4	164	167	231	234	-1
+162	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	4	4	164	167	926	929	-1
+163	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000002l	2	4	4	231	234	283	286	-1
+164	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000069l	2	4	4	231	234	609	612	-1
+165	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	4	4	231	234	31	34	-1
+166	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l	2	4	4	231	234	57	60	-1
+167	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	4	4	231	234	27	30	-1
+168	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000069l	2	4	4	57	60	609	612	-1
+169	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	4	4	57	60	31	34	-1
+170	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	4	4	57	60	27	30	-1
+171	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	4	4	1	4	0	3	0
+172	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	4	4	1	4	532	535	0
+173	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000044l	2	4	4	46	49	292	295	-1
+174	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000069l	2	4	4	218	221	609	612	-1
+175	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	4	4	218	221	31	34	-1
+176	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l	2	4	4	218	221	57	60	-1
+177	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	4	4	218	221	27	30	-1
+178	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	4	4	532	535	0	3	-1
+179	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	4	4	1	5	0	3	-1
+180	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	4	4	532	535	1	5	-1
+181	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001572l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000063l	2	4	5	0	4	102	106	-1
+182	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l	2	4	5	92	97	60	64	-1
+183	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000918l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	4	5	0	4	617	620	-1
+184	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000245l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000035l	2	4	5	0	3	235	239	-1
+185	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000082l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	4	5	245	248	103	107	-1
+186	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000027l	2	4	5	31	34	74	78	-1
+187	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000027l	2	4	5	231	234	74	78	-1
+188	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000027l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	4	5	74	78	27	30	-1
+189	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000027l	2	4	5	57	60	74	78	-1
+190	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000027l	2	4	5	218	221	74	78	-1
+191	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000020l	2	4	6	55	61	162	165	-1
+192	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	4	10	640	652	2	11	0
+193	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l	2	4	10	91	102	68	73	-1
+194	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	4	21	22	46	134	151	-1
+195	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	4	30	31	63	113	154	-1
+196	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	4	25	604	631	180	211	-1
+197	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	4	24	304	326	881	907	-1
+198	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	4	22	31	41	600	623	-1
+199	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	4	31	599	623	54	86	-1
+200	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000007l	2	4	44	243	285	690	737	-1
+201	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001567l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000082l	2	3	3	1	3	271	273	-1
+202	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001567l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	3	3	1	3	772	774	-1
+203	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001566l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	3	0	2	80	82	-1
+204	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001566l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	3	0	2	54	56	-1
+205	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001489l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000039l	2	3	3	5	7	215	217	-1
+206	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001489l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000007l	2	3	3	5	7	199	201	-1
+207	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001343l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000007l	2	3	3	0	2	613	615	-1
+208	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001343l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	3	3	0	2	396	398	-1
+209	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000918l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	3	3	6	8	578	580	-1
+210	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000791l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000058l	2	3	3	0	2	467	469	-1
+211	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000791l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	3	3	0	2	584	586	-1
+212	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000691l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000028l	2	3	3	2	4	275	277	-1
+213	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000608l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000014l	2	3	3	1	3	272	274	-1
+214	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000337l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000047l	2	3	3	4	6	58	60	0
+215			214	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l	3	3	3	0	2	47	49	0
+216	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000337l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l	2	3	3	4	6	47	49	-1
+217	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000183l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	3	15	17	880	883	-1
+218	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000125l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000058l	2	3	3	5	7	447	450	-1
+219	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000125l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	3	3	5	7	557	560	-1
+220	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000081l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000056l	2	3	3	0	2	662	664	-1
+221	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000081l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000052l	2	3	3	0	2	695	697	-1
+222	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000071l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000071l	2	3	3	56	58	23	25	-1
+223	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000066l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000062l	2	3	3	294	296	0	2	0
+224	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000066l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	3	3	294	296	0	2	-1
+225	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000066l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l	2	3	3	294	296	640	642	-1
+226	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000066l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l	2	3	3	294	296	1	3	-1
+227	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000066l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l	2	3	3	294	296	401	403	0
+228	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000066l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	3	3	294	296	533	535	-1
+229	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000066l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	3	3	294	296	1	3	-1
+230	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000065l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000069l	2	3	3	530	532	530	532	-1
+231	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000065l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000052l	2	3	3	150	152	227	229	-1
+232	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000065l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	3	524	526	41	43	-1
+233	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000062l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	3	3	0	2	0	2	-1
+234	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000062l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l	2	3	3	0	2	640	642	-1
+235	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000062l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	3	3	0	2	1	3	-1
+236	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000062l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	3	3	0	2	533	535	-1
+237	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000052l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000052l	2	3	3	805	807	748	750	-1
+238	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l	2	3	3	0	2	640	642	-1
+239	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000044l	2	3	3	96	98	0	3	0
+240			239	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l	3	3	3	0	2	201	203	0
+241	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l	2	3	3	324	326	53	55	-1
+242	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	3	3	96	98	0	2	0
+243	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000047l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	3	0	2	740	745	-1
+244	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000047l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l	2	3	3	0	2	434	437	0
+245	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000044l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	3	3	0	3	0	2	-1
+246	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	3	3	354	356	1	3	-1
+247	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l	2	3	3	355	357	1	3	0
+248	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l	2	3	3	354	356	2	4	-1
+249	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	3	3	355	357	0	2	0
+250	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	3	3	354	356	2	5	-1
+251	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	3	3	354	356	532	534	-1
+252	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l	2	3	3	105	107	16	19	-1
+253	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000039l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000039l	2	3	3	444	446	422	426	-1
+254	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000052l	2	3	3	171	173	280	282	-1
+255	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000052l	2	3	3	141	143	280	282	-1
+256	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000035l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l	2	3	3	75	77	166	168	-1
+257	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000035l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000007l	2	3	3	75	77	309	311	-1
+258	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000028l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	3	3	0	2	932	934	0
+259	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	3	3	1	3	0	2	-1
+260	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000062l	2	3	3	401	403	0	2	-1
+261	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000062l	2	3	3	1	3	0	2	-1
+262	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	3	3	401	403	0	2	-1
+263	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l	2	3	3	401	403	640	642	-1
+264	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l	2	3	3	1	3	640	642	-1
+265	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l	2	3	3	401	403	1	3	-1
+266	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	3	3	401	403	533	535	-1
+267	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	3	3	401	403	1	3	-1
+268	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000015l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	3	3	128	130	349	351	0
+269	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000014l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l	2	3	3	427	429	0	2	-1
+270	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000069l	2	3	3	140	142	610	612	-1
+271	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000069l	2	3	3	43	45	610	612	-1
+272	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	3	3	140	142	31	33	-1
+273	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	3	3	43	45	31	33	-1
+274	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l	2	3	3	201	203	96	98	-1
+275	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000044l	2	3	3	201	203	0	3	-1
+276	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l	2	3	3	140	142	232	234	-1
+277	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l	2	3	3	43	45	232	234	-1
+278	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l	2	3	3	140	142	58	60	-1
+279	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l	2	3	3	43	45	58	60	-1
+280	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	3	3	140	142	27	29	-1
+281	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	3	3	43	45	27	29	-1
+282	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l	2	3	3	140	142	43	45	-1
+283	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l	2	3	3	140	142	219	221	-1
+284	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l	2	3	3	43	45	219	221	-1
+285	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	3	3	201	203	0	2	-1
+286	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000028l	2	3	3	339	341	651	655	0
+287	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000007l	2	3	3	166	168	309	311	-1
+288	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000082l	2	3	3	196	198	245	247	-1
+289	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l	2	3	3	533	535	640	642	-1
+290	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l	2	3	3	1	3	640	642	-1
+291	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	3	196	198	103	105	-1
+292	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	3	434	437	740	745	-1
+293	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000002l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000082l	2	3	3	343	345	235	237	-1
+294	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001063l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000027l	2	3	5	0	3	75	78	-1
+295	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l	2	3	4	0	3	401	406	0
+296	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000014l	2	3	4	402	407	427	435	0
+297	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000012l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000020l	2	3	5	0	5	0	3	0
+298	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001489l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	3	4	0	3	399	401	-1
+299	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001063l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000069l	2	3	4	0	3	609	611	-1
+300	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001063l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	3	4	0	3	32	34	-1
+301	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001063l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l	2	3	4	0	3	231	233	-1
+302	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001063l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l	2	3	4	0	3	57	59	-1
+303	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001063l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	3	4	0	3	28	30	-1
+304	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg001063l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l	2	3	4	0	3	218	220	-1
+305	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000337l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	3	4	0	3	470	473	-1
+306	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000071l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000067l	2	3	4	165	167	467	470	-1
+307	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000063l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	3	4	36	39	182	184	-1
+308	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000062l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000033l	2	3	4	261	263	301	304	-1
+309	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000062l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	3	4	261	263	310	313	-1
+310	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000055l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000067l	2	3	4	0	4	467	470	-1
+311	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l	2	3	4	231	234	141	143	-1
+312	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000047l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000020l	2	3	4	0	2	0	3	-1
+313	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000047l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000012l	2	3	4	0	2	0	5	-1
+314	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l	2	3	4	354	356	430	437	-1
+315	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000028l	2	3	4	2	4	650	655	-1
+316	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000020l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000052l	2	3	4	699	702	910	912	-1
+317	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000020l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	4	0	3	740	745	-1
+318	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l	2	3	4	2	4	430	437	-1
+319	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000015l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l	2	3	4	226	228	401	406	-1
+320	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000014l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000056l	2	3	4	427	435	904	909	0
+321	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000012l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	4	0	5	740	745	-1
+322	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000027l	2	3	4	140	142	74	77	-1
+323	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000027l	2	3	4	43	45	74	77	-1
+324	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000012l	2	3	4	118	120	541	544	-1
+325	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	3	4	430	437	1	3	-1
+326	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000020l	2	3	4	434	437	0	3	-1
+327	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000012l	2	3	4	434	437	0	5	-1
+328	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	3	4	430	437	2	5	-1
+329	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	3	4	430	437	532	534	-1
+330	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000071l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l	2	3	5	153	157	40	44	-1
+331	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000044l	2	3	5	353	356	1	6	0
+332	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	5	2	5	1	6	0
+333	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000245l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000007l	2	3	5	1	3	779	784	-1
+334	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000066l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000066l	2	3	6	291	295	0	6	0
+335	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l	2	3	5	355	357	401	407	-1
+336	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	5	401	407	0	2	0
+337	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000018l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	3	5	401	407	0	2	-1
+338	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000071l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l	2	3	6	26	31	233	235	-1
+339	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000071l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	3	6	26	31	925	927	-1
+340	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000066l	2	3	6	197	202	293	295	-1
+341	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	3	6	55	61	385	387	-1
+342	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	3	10	70	78	53	61	-1
+343	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000002l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	6	181	183	42	47	-1
+344	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000066l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l	2	3	7	0	7	353	356	-1
+345	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l	2	3	8	194	202	636	641	-1
+346	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000066l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	10	291	296	1	11	-1
+347	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	8	33	41	60	63	-1
+348	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l	2	3	10	161	169	422	437	-1
+349	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000028l	2	3	13	1	16	641	655	-1
+350	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000066l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	3	10	113	123	249	254	-1
+351	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	9	640	644	725	741	0
+352	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	9	644	648	41	50	-1
+353	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000067l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	9	0	6	1	11	0
+354	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000069l	2	3	10	637	641	0	11	-1
+355	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000056l	2	3	10	690	699	491	495	-1
+356	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l	2	3	13	72	84	190	204	-1
+357	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l	2	3	12	330	341	424	437	-1
+358	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000007l	2	3	13	584	594	311	323	-1
+359	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	13	139	162	588	598	-1
+360	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000071l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	3	14	146	160	753	763	-1
+361	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000069l	2	3	14	230	251	689	699	0
+362	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	13	218	232	192	202	-1
+363	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l	2	3	15	40	58	183	195	-1
+364	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000044l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	3	15	284	300	41	51	-1
+365	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000069l	2	3	21	129	146	516	531	-1
+366	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000071l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000020l	2	3	17	146	160	518	538	-1
+367	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	15	51	68	52	61	-1
+368	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	15	662	672	597	612	-1
+369	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000008l	2	3	19	404	423	281	306	-1
+370	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000037l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000020l	2	3	21	208	229	628	650	-1
+371	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	3	20	115	134	126	151	-1
+372	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	20	164	183	146	182	-1
+373	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	3	13	114	116	903	917	-1
+374	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000071l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	19	21	36	592	612	-1
+375	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000067l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000050l	2	3	22	447	470	1	23	-1
+376	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000020l	2	3	22	22	48	628	650	-1
+377	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000012l	2	3	21	97	116	0	25	-1
+378	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l	2	3	14	313	315	1	15	0
+379	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000008l	2	3	19	139	162	281	306	-1
+380	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000008l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000008l	2	3	22	305	324	48	69	-1
+381	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	15	51	68	319	322	-1
+382	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000044l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l	2	3	24	1	23	509	534	-1
+383	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000047l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000020l	2	3	20	361	383	688	702	0
+384	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000024l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	17	164	183	100	116	-1
+385	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000013l	2	3	18	46	58	31	58	-1
+386	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	18	404	423	588	598	-1
+387	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000067l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	3	22	447	470	1	17	0
+388	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l	2	3	17	97	116	636	641	-1
+389	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000042l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	27	263	291	133	183	-1
+390	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	25	241	266	136	179	-1
+391	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	20	185	198	287	322	-1
+392	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000007l	2	3	20	150	170	759	779	-1
+393	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	3	27	404	437	907	944	-1
+394	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	3	18	26	32	796	819	-1
+395	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000013l	2	3	25	139	177	19	58	-1
+396	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000008l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	19	281	306	588	598	-1
+397	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000011l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000035l	2	3	21	150	170	212	235	-1
+398	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	18	317	341	740	750	-1
+399	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000002l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	3	28	0	28	1	29	-1
+400	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000082l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000056l	2	3	24	240	258	312	336	-1
+401	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000044l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	3	24	0	24	917	933	0
+402	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000043l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	38	199	235	100	157	-1
+403	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000027l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	29	112	144	237	266	-1
+404	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000062l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	18	462	465	126	154	-1
+405	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000056l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000001l	2	3	27	312	334	776	807	-1
+406	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000040l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	18	0	3	595	613	-1
+407	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	19	146	154	86	116	-1
+408	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000012l	2	3	19	313	341	0	8	-1
+409	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000056l	2	3	32	223	262	137	170	-1
+410	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000017l	2	3	32	240	270	219	242	-1
+411	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000049l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000065l	2	3	29	267	304	511	532	-1
+412	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000009l	2	3	33	62	100	784	818	-1
+413	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000005l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000058l	2	3	30	380	397	136	167	-1
+414	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000014l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000019l	2	3	49	367	390	154	206	-1
+415	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000006l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000031l	2	3	44	484	535	737	790	0
+416	Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000010l		Trebouxia_sp._Hap2.cds-transcripts.fa	ptg000007l	2	3	51	234	305	690	749	0
