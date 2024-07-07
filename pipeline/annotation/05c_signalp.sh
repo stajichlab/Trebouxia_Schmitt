@@ -24,6 +24,6 @@ OUTDIR=annotation
 IFS=,
 tail -n +2 $SAMPLES | sed -n ${N}p | while read BASE SPECIES STRAIN NANOPORE ILLUMINA SUBPHYLUM PHYLUM LOCUS RNASEQ
 do
-    signalp6 -od $SCRATCH/${$BASE}_signalp -org euk --mode fast -format txt -fasta $OUTDIR/$BASE/predict_results/*.proteins.fa --write_procs $CPUS -bs 16
-    rsync -a $SCRATCH/${$BASE}_signalp/prediction_results.txt $OUTDIR/$BASE/annotate_misc/signalp.results.txt
+    signalp6 -od $SCRATCH/${BASE}_signalp -org euk --mode fast -format txt -fasta $OUTDIR/${BASE}/predict_results/*.proteins.fa --write_procs $CPUS -bs 16
+    rsync -a $SCRATCH/${BASE}_signalp/prediction_results.txt $OUTDIR/${BASE}/annotate_misc/signalp.results.txt
 done
